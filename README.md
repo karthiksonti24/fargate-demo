@@ -22,17 +22,17 @@ you to run containers without managing clusters or services.
 
 #### 1. Fork the GitHub repository
 
-[Fork](https://help.github.com/articles/fork-a-repo/) the [Node ECS CICD Demo App](https://github.com/lenworthhenry/dc-summit-2018-node-ecs-fargate-demo) GitHub repository into
+[Fork](https://help.github.com/articles/fork-a-repo/) the https://github.com/karthiksonti24/fargate-demo GitHub repository into
 your GitHub account.
 
 From your terminal application, execute the following command (make sure to
 replace `<your_github_username>` with your actual GitHub username):
 
 ```console
-git clone https://github.com/<your_github_username>/dc-summit-2018-node-ecs-fargate-demo
+git clone https://github.com/<your_github_username>/fargate-demo
 ```
 
-This creates a directory named `dc-summit-2018-node-ecs-fargate-demo` in your current
+This creates a directory named `fargate-demo` in your current
 directory, which contains the code for the Amazon ECS sample app.
 
 #### 2. Create the CloudFormation stack
